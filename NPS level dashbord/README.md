@@ -1,13 +1,13 @@
 # NPS level dashboard
 see it on [Tableau.public](https://public.tableau.com/app/profile/polina.ostroukhova/viz/NPS_made_up_project_eng/Story)   
-The project consists of four dashboards, each of which provides an opportunity to analyze various aspects of popular TED conferences:
+This project presents the results of an NPS survey conducted among users of a telecommunications company.
 
-1. History of TED Talks: This dashboard allows you to assess the distribution of TED conferences by year and country, as well as the change in themes of the talks over time.
+The Tableau story visualizes:
 
-2. Topics of Conferences: On this dashboard, you can see the frequency and reactions to various themes of the talks, as well as identify possible correlations between audience reactions.
+1. General information about users and the brand’s NPS categories.
+2. A description of the respondents—users who participated in the survey.
+3. Comparison of 2 NPS categories: promoters and detractors.
+4. Detailed view on users, who are loyal to our brand.
+5. A deeper focus on the most loyal part of users - promoters.
 
-3. TED Speakers: Here, information about the most active speakers, their field of activity, the number of talks they have given, and the popularity of their talks among viewers is presented.
-
-4. Types of Conferences: This dashboard analyzes various types of TED conferences, their distribution over the years, popularity among the audience, and audience reactions to these conferences.
-
-Each dashboard provides an in-depth understanding of different aspects and the history of TED conferences, which helps to better understand and assess their influence and significance.
+Dashboards complement each other and reveal the key insight of NPS survey. Based on this data we've got portrait of loyal and unloyal clients of our brand and how NPS level differs depends on different properties.
