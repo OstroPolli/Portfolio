@@ -10,4 +10,4 @@ The Tableau story visualizes:
 4. Detailed view on users, who are loyal to our brand.
 5. A deeper focus on the most loyal part of users - promoters.
 
-Dashboards complement each other and reveal the key insight of NPS survey. Based on this data we've got portrait of loyal and unloyal clients of our brand and how NPS level differs depends on different properties.
+The dashboards complement each other and highlight the key insights from the NPS survey. Based on this data, we have created a profile of both loyal and non-loyal customers of our brand, and how NPS levels vary across different characteristics.
